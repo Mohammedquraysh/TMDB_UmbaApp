@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dashBoardFragment"
+            android:title="@string/latestMovie"
+            android:icon="@drawable/latest" />
+
+
+        <item
+            android:id="@+id/referralAndEarn"
+            android:title="@string/popularMovie"
+            android:icon="@drawable/popular" />
+
+        <item
+            android:id="@+id/historyFragment"
+            android:title="@string/UpcomingMovie"
+            android:icon="@drawable/upcoming" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UMBATMDBApplication</string>
+    <string name="latestMovie">Latest Movies</string>
+    <string name="popularMovie">Popular Movies</string>
+    <string name="UpcomingMovie">Upcoming Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
